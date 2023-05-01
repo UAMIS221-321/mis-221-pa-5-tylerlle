@@ -1,0 +1,15 @@
+0#Helene Renninger#123 Street#hrenninger@crimson.ua.edu #False
+1#Ellie#ehehehe#ellie@crimson.ua.edu#False
+2#Mattie Bryant#help address#mbryant@crimson.ua.edu#False
+3#Micah Pentecost#209 Wesley Place#mpentecost@crimson.ua.edu#False
+4#Brooke Crider#36 Auduban Place#bcrider@crimson.ua.edu#False
+5#Kyle Knudson#Hewson Hall#kknudson@cba.ua.edu#False
+6#Jerel Mitchell#University Blvd#jbmitchell6@crimson.ua.edu#False
+7#Peyton Kauffman#Bidgood#pvkauffman@crimson.ua.edu#False
+8#Madison Scott#123 Ave#scott@crimson.ua.edu#False
+9#Sid#Sigma Chi#sid@crimson.ua.edu#False
+10#Tyler Le#Grace St#tlle@crimson.ua.edu#False
+11#Jahanzeb#Rose Building#zeb@crimson.ua.edu#False
+12#Jack Rivers#Grace St#rivers@crimson.ua.edu#False
+13#Mike Ross#New York Ln#suits@pearsonspector.com#False
+14#Jessica Rowe#alpha chi#jessie@crimson.ua.edu#False

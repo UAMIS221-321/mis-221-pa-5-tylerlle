@@ -1,0 +1,15 @@
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/bin/Debug/net6.0/mis-221-pa-5-tylerlle
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/bin/Debug/net6.0/mis-221-pa-5-tylerlle.deps.json
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/bin/Debug/net6.0/mis-221-pa-5-tylerlle.runtimeconfig.json
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/bin/Debug/net6.0/mis-221-pa-5-tylerlle.dll
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/bin/Debug/net6.0/mis-221-pa-5-tylerlle.pdb
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/obj/Debug/net6.0/mis-221-pa-5-tylerlle.csproj.AssemblyReference.cache
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/obj/Debug/net6.0/mis-221-pa-5-tylerlle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/obj/Debug/net6.0/mis-221-pa-5-tylerlle.AssemblyInfoInputs.cache
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/obj/Debug/net6.0/mis-221-pa-5-tylerlle.AssemblyInfo.cs
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/obj/Debug/net6.0/mis-221-pa-5-tylerlle.csproj.CoreCompileInputs.cache
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/obj/Debug/net6.0/mis-221-pa-5-tylerlle.dll
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/obj/Debug/net6.0/refint/mis-221-pa-5-tylerlle.dll
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/obj/Debug/net6.0/mis-221-pa-5-tylerlle.pdb
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/obj/Debug/net6.0/mis-221-pa-5-tylerlle.genruntimeconfig.cache
+/Users/tylerle/MIS221/pas/mis-221-pa-5-tylerlle/obj/Debug/net6.0/ref/mis-221-pa-5-tylerlle.dll
